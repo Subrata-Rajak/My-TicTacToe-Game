@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe Game</string>
+    <string name="hii_i_am_nate">Hii Let\'s play!!</string>
+    <string name="reset">Reset</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="todo">TODO</string>
+    <string name="device">Device</string>
+    <string name="players">Players</string>
+</resources>
