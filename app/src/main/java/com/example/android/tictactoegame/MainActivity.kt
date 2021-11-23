@@ -205,18 +205,23 @@ class MainActivity : AppCompatActivity() {
 
     private fun reset(){
         btn1.isEnabled = true
+        btn1.text = ""
         btn1.setBackgroundColor(Color.WHITE)
 
         btn2.isEnabled = true
+        btn2.text = ""
         btn2.setBackgroundColor(Color.WHITE)
 
         btn3.isEnabled = true
+        btn3.text = ""
         btn3.setBackgroundColor(Color.WHITE)
 
         btn4.isEnabled = true
+        btn4.text = ""
         btn4.setBackgroundColor(Color.WHITE)
 
         btn5.isEnabled = true
+        btn5.text = ""
         btn5.setBackgroundColor(Color.WHITE)
 
         btn6.isEnabled = true
@@ -224,12 +229,15 @@ class MainActivity : AppCompatActivity() {
         btn6.setBackgroundColor(Color.WHITE)
 
         btn7.isEnabled = true
+        btn7.text = ""
         btn7.setBackgroundColor(Color.WHITE)
 
         btn8.isEnabled = true
+        btn8.text = ""
         btn8.setBackgroundColor(Color.WHITE)
 
         btn9.isEnabled = true
+        btn9.text = ""
         btn9.setBackgroundColor(Color.WHITE)
 
         winTxt.text = "Hii Let's play!!"
